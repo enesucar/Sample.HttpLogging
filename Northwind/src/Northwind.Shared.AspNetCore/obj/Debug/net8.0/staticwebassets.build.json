@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m8WaxFYRBIjM6sYATlbCggnwrLXMh40PrrEyp3kzbfw=",
+  "Source": "Northwind.Shared.AspNetCore",
+  "BasePath": "_content/Northwind.Shared.AspNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
